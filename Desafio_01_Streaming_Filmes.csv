@@ -1,0 +1,11 @@
+filme_id,titulo,genero,ano_lancamento,duracao_min,classificacao_indicativa,diretor_ficticio
+1,Canção dos viajantes,comédia,1986,169,12,Helena Vasconcelos
+2,Vozes do Silêncio,terror,1999,92,18,Rafael Monteiro
+3,Risos em Órbita,comédia,2019,86,16,Camila Albuquerque
+4,Ecos de Vênus,ficção científica,1987,78,L,Eduardo Nogueira
+5,O Último Farol,terror,1999,139,16,Marina Sampaio
+6,Missão Nebulosa,ação,2020,100,18,André Valença
+7,A Casa das Sombras,ficção científica,1999,132,16,Beatriz Noronha
+8,Fragmentos do Tempo,documentário,1985,172,10,Lucas Montenegro
+9,Horizonte Infinito,ficção científica,2006,110,10,Isabela Ferraz
+10,A Última Colheita,terror,2006,88,L,Gabriel Azevedo
